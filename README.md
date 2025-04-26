@@ -1,7 +1,7 @@
 #### Languages
 
 ![Clojure](https://img.shields.io/badge/CLOJURE-5881D8.svg?style=for-the-badge&logo=Clojure&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-007396.svg?style=for-the-badge&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-007396.svg?style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=black)
 ![Scala](https://img.shields.io/badge/SCALA-DC322F.svg?style=for-the-badge&logo=Scala&logoColor=white)
 ![Elixir](https://img.shields.io/badge/ELIXIR-4B275F.svg?style=for-the-badge&logo=Elixir&logoColor=white)
@@ -13,10 +13,11 @@
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?style=for-the-badge&logo=Microsoft&logoColor=white)
 ![Zed](https://img.shields.io/badge/ZED-000000.svg?style=for-the-badge&logo=Zed&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/INTELLIJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-Idea&logoColor=white)
+![VisualStudio](https://img.shields.io/badge/VISUAL%20STUDIO-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)
 
 #### Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=Amazon&logoColor=white)
 ![GCP](https://img.shields.io/badge/GOOGLE%20CLOUD-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/AZURE-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
 ![CloudFoundry](https://img.shields.io/badge/CLOUDFOUNDRY-00A3E0.svg?style=for-the-badge&logo=CloudFoundry&logoColor=white)
@@ -26,8 +27,8 @@
 ![JenkinsCI](https://img.shields.io/badge/JENKINS%20CI-D24939.svg?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CIRCLE%20CI-343434.svg?style=for-the-badge&logo=CircleCI&logoColor=white)
 ![TravisCI](https://img.shields.io/badge/TRAVIS%20CI-3EAAAF.svg?style=for-the-badge&logo=Travis-CI&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 
+![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/TERRAFORM-623CE4.svg?style=for-the-badge&logo=Terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/LINUX-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
@@ -50,8 +51,6 @@
 ![React](https://img.shields.io/badge/REACT-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![MaterialUI](https://img.shields.io/badge/MATERIAL%20UI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![Rum](https://img.shields.io/badge/RUM-FF4F00.svg?style=for-the-badge&logo=React&logoColor=white)
-![Reagent](https://img.shields.io/badge/REAGENT-4A154B.svg?style=for-the-badge&logo=React&logoColor=white)
 
 #### Backend
 
@@ -59,8 +58,7 @@
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Spring-Boot](https://img.shields.io/badge/SPRING%20BOOT-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/PHOENIX-FF4F00.svg?style=for-the-badge&logo=Elixir&logoColor=white)
-![WCF](https://img.shields.io/badge/WCF-0078D7.svg?style=for-the-badge&logo=Microsoft&logoColor=white)
-![IIS](https://img.shields.io/badge/IIS-0078D7.svg?style=for-the-badge&logo=Microsoft&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-0078D7.svg?style=for-the-badge&logo=Microsoft&logoColor=white)
 
 #### Communication
 
