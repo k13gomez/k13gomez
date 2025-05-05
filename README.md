@@ -78,3 +78,5 @@
 #### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/k13gomez/)
+[![Gitlab](https://img.shields.io/badge/GITLAB-330F63.svg?style=for-the-badge&logo=Gitlab&logoColor=white)](https://gitlab.com/k13gomez)
+[![Github](https://img.shields.io/badge/GITHUB-181717.svg?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/k13gomez)
